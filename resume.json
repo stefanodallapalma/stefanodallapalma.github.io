@@ -6,7 +6,7 @@
       "image": "",
       "email": "s.dallapalma@uvt.nl",
       "url": "https://stefanodallapalma.github.io",
-      "summary": "A proactive, self-studier, with a strong can-do attitude person motivated by an inexhaustible enthusiasm and commitment and excited to follow-up collaborations with industries working in the Software Engineering domain!",
+      "summary": "A proactive, self-studier, with a strong can-do attitude person motivated by an inexhaustible enthusiasm and commitment and excited to follow-up collaborations with industries working in the Software Engineering domain!\nRecently completed the Google Project Management Career Certificate - a rigorous, hands-on program that covers traditional and Agile project management approaches throughout the life cycle of a project.",
       "location": {
         "city": "s-Hertogenbosch",
         "countryCode": "NL",
@@ -42,6 +42,11 @@
       "endDate": "2021-07"
     }],
     "education": [{
+      "institution": "Coursera",
+      "area": "Google Project Management Certificate",
+      "studyType": "Online",
+      "startDate": "2022"
+    },{
       "institution": "Tilburg University, JADS",
       "url": "https://www.jads.nl",
       "area": "Software and Data Engineering",
@@ -84,42 +89,17 @@
     }],
     "awards": [],
     "certificates": [{
-        "name": "AWS Cloud Technical Essentials",
-        "date": "2022-08-18",
-        "issuer": "Amazon Web Services",
-        "url": "https://www.coursera.org/account/accomplishments/certificate/Q88KJDCX2XJ2",
-        "description": "An online non-credit course authorized by Amazon Web Services and offered through Coursera"
+      "name": "Google Project Management: Specialization",
+      "date": "2022-10",
+      "issuer": "Google",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/BCC4ZKBW4WFX",
+      "description": "An online non-credit course authorized by Google and offered through Coursera"
     },{
-        "name": "Agile Project Management",
-        "date": "2022-09-13",
-        "issuer": "Google",
-        "url": "https://www.coursera.org/account/accomplishments/certificate/H44SLKVZNBR3",
-        "description": "An online non-credit course authorized by Google and offered through Coursera"
-    },{
-        "name": "Project Execution: Running the Project",
-        "date": "2022-08-23",
-        "issuer": "Google",
-        "url": "https://www.coursera.org/account/accomplishments/certificate/NDJ2KDGKBJHE",
-        "description": "An online non-credit course authorized by Google and offered through Coursera"
-    },{
-        "name": "Project Planning: Putting It All Together",
-        "date": "2022-08-02",
-        "issuer": "Google",
-        "url": "https://www.coursera.org/account/accomplishments/certificate/56HTHRRRHDAV",
-        "description": "An online non-credit course authorized by Google and offered through Coursera"
-    },{
-        "name": "Project Initiation: Starting a Successful Project",
-        "date": "2022-06-30",
-        "issuer": "Google",
-        "url": "https://www.coursera.org/account/accomplishments/certificate/JK3HLJZK36R3",
-        "description": "An online non-credit course authorized by Google and offered through Coursera"
-    },
-    {
-        "name": "Foundations of Project Management",
-        "date": "2022-06-08",
-        "issuer": "Google",
-        "url": "https://www.coursera.org/account/accomplishments/certificate/E87WLV2MGY55",
-        "description": "An online non-credit course authorized by Google and offered through Coursera"
+      "name": "AWS Cloud Technical Essentials",
+      "date": "2022-08-18",
+      "issuer": "Amazon Web Services",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/Q88KJDCX2XJ2",
+      "description": "An online non-credit course authorized by Amazon Web Services and offered through Coursera"
     },
     {
         "name": "Kotlin for Java Developers",
@@ -248,6 +228,14 @@
         "Windows",
         "Linux/Ubuntu",
         "Docker"
+      ]
+    },{
+      "name": "Project Management",
+      "keywords": [
+        "Agile project management",
+        "Risk management",
+        "Effective stakeholders communication",
+        "Scoping and planning"
       ]
     },{
       "name": "Communication",
