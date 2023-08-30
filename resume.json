@@ -39,7 +39,14 @@
       "position": "Tech Academy Engineer",
       "url": "https://www.adyen.com/",
       "startDate": "2022-12",
-      "descriptions": "As a Tech Academy Engineer, I design and deliver tailored training for software engineers, mentor juniors, and contribute to Adyen Tech Academy's software development, fostering continuous learning and growth."
+      "keywords": ["training", "onboarding", "upskilling", "software development"],
+      "summary": "As a Tech Academy Engineer, I design and deliver tailored training for software engineers, mentor juniors, and contribute to Adyen Tech Academy's software development, fostering continuous learning and growth.",
+      "highlights": [
+          "Tailored training on Code Reviews, SOLID principles, and Refactoring to Design Patterns",
+          "Mentor junior Java developers",
+          "Developed Adyen Tech Academy's Java web app supporting various company academies",
+          "Automation and integration with Google Calendar, Zoom, and Mattermost"
+      ]  
     },{
       "name": "Jheronimus Academy of Data Science (JADS)",
       "position": "Ph.D. researcher",
